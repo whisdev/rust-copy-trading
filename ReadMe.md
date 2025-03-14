@@ -95,7 +95,7 @@ TOKEN_PERCENTAGE=1 #percentage
 - Target: https://solscan.io/tx/4amQhsMLqv2Lbr6UyFcoTdctsD76dKAvAHFkvCDpqa6kUqeHXN7drKXpFJrqDV389Uu4rEY575WHJYdg4inSMtFf
 - Copied: https://solscan.io/tx/57P2bZGJ5QTThjT4jv88CXEU4oGDTgVaS2c386qBMEs2KkizN2PV7cKKZgS8uvWwPQyTpBUXTTfnjJ4dECuJf39t
 - Dexscreener: https://dexscreener.com/solana/JD3VPqQ7pfHZ4h2zhALfvz5E7dantyVpsDUov1Lgpump
-
+- Wallet: https://gmgn.ai/sol/address/D3QXckXy26G6rTnqHQFUxvwpRsv18o5wBrHMVoodYWTa
 ---
 ## Donate
 
