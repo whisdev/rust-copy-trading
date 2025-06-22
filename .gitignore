@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rust
 Cargo.lock
 /target
@@ -5,3 +6,6 @@ Cargo.lock
 # IDE
 .idea/
 *.iml
+=======
+/target
+>>>>>>> rust_copy_trading/master
